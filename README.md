@@ -132,7 +132,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 - Clone this repo:
 ```
-git clone https://github.com/zxc743/eunhamirror1 EunhaMirror1/ && cd EunhaMirror1
+git clone https://github.com/zxc743/eunhamirror1 eunha/ && cd eunha
 ```
 - For Debian based distros
 ```
